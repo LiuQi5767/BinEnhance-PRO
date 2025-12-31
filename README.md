@@ -87,6 +87,23 @@ See the Eval part.
 **D1_norm and D1_noinline in the paper (The homologous function pairs for the evaluation of the function inline scenario can be constructed from them)**: These datasets can download from [normal_dataset](https://drive.google.com/file/d/1K9ef-OoRBr0X5u8g2mlnYqh9o1i6zFij/view) and [noinline_dataset](https://drive.google.com/file/d/1wt7GY-DDp8J_2zeBBVUrcfWIyerg_xLO/view) in [Binkit](https://github.com/SoftSec-KAIST/BinKit).<br>
 
 
+################################################
+**Supplementary Materials for the Paper**
+################################################
+
+Due to space limitations in the main manuscript, we provide detailed experimental results and additional visualizations in the `supplementary_materials` folder.
+
+**1. Detailed Results for Internal and External Semantic Pairs (Referencing Table VI)**
+
+*   📄 **File:** [MAP scores of different methods of binary code search tasks in inlining and non-inlining compilation settings.pdf](./supplementary_materials/MAP%20scores%20of%20different%20methods%20of%20binary%20code%20search%20tasks%20in%20inlining%20and%20non-inlining%20compilation%20settings.pdf)
+
+**2. Detailed Performance Figures (Ablation Study Results)**
+
+*   📄 **File:** [MAP scores of different situations.pdf](./supplementary_materials/MAP%20scores%20of%20different%20situations.pdf)
+
+This document visualizes the ablation study results discussed in **Section 4.E (Other Components)** of the paper. It illustrates the impact of different components in the BinEnhancePro framework, specifically:
+
+
 ################################################<br>
 **References**<br>
 ################################################<br>
